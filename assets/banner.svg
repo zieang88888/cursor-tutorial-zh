@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="240" rx="16" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <text x="120" y="170" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">Cursor 完全教程</text>
+  <text x="120" y="235" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" fill="#94a3b8">AI 编程 · 从入门到精通 · 10 大章节全攻略</text>
+  <circle cx="1020" cy="150" r="70" fill="none" stroke="#22d3ee" stroke-width="6"/>
+  <circle cx="1020" cy="150" r="46" fill="none" stroke="#a78bfa" stroke-width="6" stroke-dasharray="10 8"/>
+  <text x="1020" y="163" font-family="monospace" font-size="40" fill="#ffffff" text-anchor="middle">⌘</text>
+</svg>
